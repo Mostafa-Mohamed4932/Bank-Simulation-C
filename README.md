@@ -1,6 +1,8 @@
 # Bank-Simulation-CPP--
  
- The code simulates the major activities found within a bank, including: 
+ The code simulates the major activities found within a bank, including:
+ 
+ 
 1.Deposit 
   
 2.Withdraw
