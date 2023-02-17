@@ -3,9 +3,9 @@
  The code simulates the major activities found within a bank, including: 
 1. Deposit 
   
- 2.Withdraw
+2.Withdraw
  
- 3.Check_Balance 
+3.Check_Balance 
  
 4. Update_Account_Information, 
  
